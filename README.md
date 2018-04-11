@@ -31,3 +31,6 @@ You may work within a group or by yourself.
 * May 2nd (Wed): ***FINAL PROJECT PRESENTATIONS***
 * May 7th (Mon): IM Show
 
+## Repo
+Use this repo to store all your code, sketches, documentation, etc.
+
