@@ -12,6 +12,7 @@ For the final your are free to choose what you'd like to do. The project should 
 * Print out a series of AI enabled art
 * Create an interactive application (tool/game/art piece) of char-rnn like text generation 
 * Create an art piece that illustrates/amplifies characteristics of this technology (could be illuminating or comedic or both)
+* Train an LSTM on SVG data and output new SVGs
 
 The list could go on and on. The above should be considered far from exhaustive.
 
